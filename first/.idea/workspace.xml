@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="855bc9ad-4708-4f40-b419-8e150b794e30" name="Default" comment="" />
+    <ignored path="first.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/first$Main.coverage" NAME="Main Coverage Results" MODIFIED="1438163488319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="first" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ParallelSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/ParallelSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RussianNumbers.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/RussianNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.7948052">
+              <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+              <folding>
+                <marker date="1458756589659" expanded="true" signature="1449:2309" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main.java" />
+        <option value="$PROJECT_DIR$/src/ru/ncedu/java/tasks/ControlFlowStatements1.java" />
+        <option value="$PROJECT_DIR$/src/ru/ncedu/java/tasks/main.java" />
+        <option value="$PROJECT_DIR$/src/ru/ncedu/java/tasks/ControlFlowStatements1Impl.java" />
+        <option value="$PROJECT_DIR$/src/ru/ncedu/java/tasks/ControlFlowStatements2.java" />
+        <option value="$PROJECT_DIR$/src/ru/ncedu/java/tasks/ControlFlowStatements2Impl.java" />
+        <option value="$PROJECT_DIR$/src/com/netcracker/edu/java/tasks/ZeroTask.java" />
+        <option value="$PROJECT_DIR$/src/com/netcracker/edu/java/tasks/ZeroTaskImpl.java" />
+        <option value="$PROJECT_DIR$/src/ru/ncedu/java/tasks/ArrayVector.java" />
+        <option value="$PROJECT_DIR$/src/ru/ncedu/java/tasks/ArrayVectorImpl.java" />
+        <option value="$PROJECT_DIR$/src/ru/ncedu/java/tasks/Employee.java" />
+        <option value="$PROJECT_DIR$/src/ru/ncedu/java/tasks/EmployeeImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/netcracker/edu/java/tasks/ComplexNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/netcracker/edu/java/tasks/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/netcracker/edu/java/tasks/ComplexN.java" />
+        <option value="$PROJECT_DIR$/src/com/netcracker/edu/java/tasks/ComplexNumberImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/netcracker/edu/java/tasks/FileSearch.java" />
+        <option value="$PROJECT_DIR$/src/com/netcracker/edu/java/tasks/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/netcracker/edu/java/tasks/FileSearchImpl.java" />
+        <option value="$PROJECT_DIR$/src/ru/ncedu/java/tasks/StringFilter.java" />
+        <option value="$PROJECT_DIR$/src/ru/ncedu/java/tasks/StringFilterImpl.java" />
+        <option value="$PROJECT_DIR$/src/ru/ncedu/java/tasks/DateCollectionsImpl.java" />
+        <option value="$PROJECT_DIR$/src/ru/ncedu/java/tasks/DateCollections.java" />
+        <option value="$PROJECT_DIR$/src/ru/ncedu/java/tasks/BusinessCard.java" />
+        <option value="$PROJECT_DIR$/src/ru/ncedu/java/tasks/BusinessCardImpl.java" />
+        <option value="$PROJECT_DIR$/src/ru/ncedu/java/tasks/Reflections.java" />
+        <option value="$PROJECT_DIR$/src/ru/ncedu/java/tasks/ReflectionsImpl.java" />
+        <option value="$PROJECT_DIR$/src/ru/ncedu/java/tasks/WordProcessor.java" />
+        <option value="$PROJECT_DIR$/src/ru/ncedu/java/tasks/WordProcessorImpl.java" />
+        <option value="$PROJECT_DIR$/src/ru/ncedu/java/tasks/Checker.java" />
+        <option value="$PROJECT_DIR$/src/ru/ncedu/java/tasks/CheckerImpl.java" />
+        <option value="$PROJECT_DIR$/src/ru/ncedu/java/tasks/ParallelSort.java" />
+        <option value="$PROJECT_DIR$/src/ru/ncedu/java/tasks/SimpleXML.java" />
+        <option value="$PROJECT_DIR$/src/ru/ncedu/java/tasks/SimpleXMLImpl.java" />
+        <option value="$PROJECT_DIR$/src/ru/ncedu/java/tasks/XPathCaller.java" />
+        <option value="$PROJECT_DIR$/src/ru/ncedu/java/tasks/XPathCallerImpl.java" />
+        <option value="$PROJECT_DIR$/src/ru/ncedu/java/tasks/RussianNumbers.java" />
+        <option value="$PROJECT_DIR$/src/ru/ncedu/java/tasks/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers ProjectPane="false" />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="first" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="first" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="first" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="first" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="first" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="first" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="first" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tasks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="first" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="first" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="first" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tasks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="first" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="first" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="collection &#9;PSI&#9;JAVA://java.util.Collection&#10;hashmap&#9;PSI&#9;JAVA://java.util.HashMap&#10;hashse&#9;PSI&#9;JAVA://java.util.HashSet&#10;sortedset&#9;PSI&#9;JAVA://java.util.SortedSet&#10;treeset&#9;PSI&#9;JAVA://java.util.TreeSet&#10;set&#9;PSI&#9;JAVA://java.util.Set&#10;simpledate&#9;PSI&#9;JAVA://java.text.SimpleDateFormat&#10;datefor&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/text/DateFormat.java&#10;date &#9;PSI&#9;JAVA://java.util.Date&#10;calendar&#9;PSI&#9;JAVA://java.util.Calendar&#10;dateformat&#9;PSI&#9;JAVA://java.text.DateFormat" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Multiprocessor-Programming" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="ru.ncedu.java.tasks.Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="java ParallelSort -ui C:\Users\Sony\Desktop\netcracker\wp.txt" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="first" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="855bc9ad-4708-4f40-b419-8e150b794e30" name="Default" comment="" />
+      <created>1436467847047</created>
+      <option name="number" value="Default" />
+      <updated>1436467847047</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32861635" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32626426" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18154311" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962406" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3980424" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32932332" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32931036" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32931036" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32931036" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32932332" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18421052" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32931036" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962406" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/DateCollectionsImpl.java</url>
+          <line>134</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/ReflectionsImpl.java</url>
+          <line>140</line>
+          <properties />
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/ReflectionsImpl.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/WordProcessorImpl.java</url>
+          <line>90</line>
+          <properties />
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/ParallelSort.java</url>
+          <line>82</line>
+          <properties />
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/ParallelSort.java</url>
+          <line>70</line>
+          <properties />
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/SimpleXMLImpl.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/XPathCallerImpl.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/XPathCallerImpl.java</url>
+          <line>81</line>
+          <properties />
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/XPathCallerImpl.java</url>
+          <line>125</line>
+          <properties />
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/XPathCallerImpl.java</url>
+          <line>149</line>
+          <properties />
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/XPathCallerImpl.java</url>
+          <line>93</line>
+          <properties />
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/XPathCallerImpl.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/XPathCallerImpl.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/XPathCallerImpl.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/XPathCallerImpl.java</url>
+          <line>158</line>
+          <properties />
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/XPathCallerImpl.java</url>
+          <line>173</line>
+          <properties />
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/XPathCallerImpl.java</url>
+          <line>182</line>
+          <properties />
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/XPathCallerImpl.java</url>
+          <line>198</line>
+          <properties />
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/XPathCallerImpl.java</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/RussianNumbers.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/BusinessCardImpl.java</url>
+          <line>24</line>
+          <properties class="ru.ncedu.java.tasks.BusinessCardImpl" method="&lt;init&gt;" />
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="183" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="nodes.getLength()" language="JAVA" custom="" />
+        <watch expression="result.getLength()" language="JAVA" custom="com.sun.org.apache.xml.internal.dtm.ref.DTMNodeList" />
+        <watch expression="res_el[i].getFirstChild().getNextSibling().getFirstChild()" language="JAVA" custom="" />
+        <watch expression="res_el[i].getFirstChild().getNextSibling().getFirstChild().getNodeValue()" language="JAVA" custom="" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/netcracker/edu/java/tasks/ComplexNumberImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="123" column="28" selection-start-line="0" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/netcracker/edu/java/tasks/ComplexNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1246" column="47" selection-start-line="1246" selection-start-column="47" selection-end-line="1246" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/util/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5543478">
+          <caret line="69" column="33" selection-start-line="69" selection-start-column="33" selection-end-line="69" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/util/Calendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="394" column="19" selection-start-line="394" selection-start-column="19" selection-end-line="394" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/text/SimpleDateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="420" column="13" selection-start-line="420" selection-start-column="13" selection-end-line="420" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/text/DateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.425">
+          <caret line="113" column="54" selection-start-line="113" selection-start-column="54" selection-end-line="113" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/netcracker/edu/java/tasks/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5543478">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/netcracker/edu/java/tasks/FileSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33876812">
+          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="89" column="42" selection-start-line="89" selection-start-column="42" selection-end-line="89" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45652175">
+          <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/util/TreeSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="91" column="46" selection-start-line="91" selection-start-column="46" selection-end-line="91" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/util/SortedSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="111" column="41" selection-start-line="111" selection-start-column="41" selection-end-line="111" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.0">
+          <caret line="631" column="29" selection-start-line="631" selection-start-column="29" selection-end-line="631" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.0110803">
+          <caret line="179" column="0" selection-start-line="179" selection-start-column="0" selection-end-line="179" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/StringFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.85">
+          <caret line="105" column="7" selection-start-line="105" selection-start-column="7" selection-end-line="105" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/ArrayVector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="66" column="7" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/ArrayVectorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/netcracker/edu/java/tasks/FileSearchImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/DateCollections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/StringFilterImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="127" column="20" selection-start-line="127" selection-start-column="20" selection-end-line="127" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/DateCollectionsImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.390625">
+          <caret line="93" column="13" selection-start-line="93" selection-start-column="13" selection-end-line="93" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.521875">
+          <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.65">
+          <caret line="585" column="45" selection-start-line="585" selection-start-column="45" selection-end-line="585" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/BusinessCardImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.490625">
+          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/BusinessCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/lang/reflect/InvocationTargetException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="76" column="22" selection-start-line="76" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="218" column="0" selection-start-line="218" selection-start-column="0" selection-end-line="218" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/Reflections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.641243">
+          <caret line="95" column="30" selection-start-line="95" selection-start-column="30" selection-end-line="95" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/ReflectionsImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5706215">
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/WordProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/WordProcessorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5805921">
+          <caret line="85" column="18" selection-start-line="0" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/CheckerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="96" selection-start-line="19" selection-start-column="96" selection-end-line="19" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/Checker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/commons-cli-1.3.1-sources.jar!/org/apache/commons/cli/Options.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="96" column="0" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/commons-cli-1.3.1-sources.jar!/org/apache/commons/cli/DefaultParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="119" column="0" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/commons-cli-1.3.1-sources.jar!/org/apache/commons/cli/CommandLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38980263">
+          <caret line="73" column="35" selection-start-line="73" selection-start-column="35" selection-end-line="73" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/org/xml/sax/helpers/AttributesImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/org/xml/sax/InputSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="312" column="0" selection-start-line="312" selection-start-column="0" selection-end-line="312" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/org/xml/sax/SAXParseException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="255" column="0" selection-start-line="255" selection-start-column="0" selection-end-line="255" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/org/xml/sax/SAXException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/SimpleXML.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3333334">
+          <caret line="60" column="7" selection-start-line="60" selection-start-column="7" selection-end-line="60" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/org/xml/sax/helpers/LocatorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="198" column="0" selection-start-line="198" selection-start-column="0" selection-end-line="198" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/SimpleXMLImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="52" column="54" selection-start-line="38" selection-start-column="8" selection-end-line="52" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/org/xml/sax/helpers/DefaultHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/XPathCallerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="134" column="50" selection-start-line="134" selection-start-column="50" selection-end-line="134" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/XPathCaller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44078946">
+          <caret line="68" column="38" selection-start-line="68" selection-start-column="38" selection-end-line="68" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/ParallelSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/RussianNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="85" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+          <folding>
+            <marker date="1458756589659" expanded="true" signature="1449:2309" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ncedu/java/tasks/RussianNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.7948052">
+          <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>first</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>com.google.collections:google-collections:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
